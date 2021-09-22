@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day1</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h3 id="1stline">this is 1st line.</h3>
+     <p id="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis adipisci ducimus minus debitis impedit asperiores sapiente obcaecati quos voluptates labore.</p>
+    <button type="button" class="btn1" onclick='getElementById("1stline").innerHTML = "override the 1st line."'>clickMe</button>
+    <button type="button" class="btn2" onclick='getElementById("para").innerText = "override the 1st lineslorem ipsum dolor sit amet."'>clickMe</button> -->
+
+
+    <!-- JavaScript Can Change HTML Styles (CSS) -->
+<button type="button" 
+    onclick='document.getElementById("1stline").style.fontSize = "35px"'>clickMe</button>
+
+
+<!-- JavaScript Can Hide HTML Elements -->
+<button type="button" onclick=Hide()>Hide</button>
+
+<!-- JavaScript Can Show HTML Elements -->
+<button type="button" onclick= Show()>Show</button>
+
+
+
+<!-- JavaScript can "display" data in different ways:
+
+Writing into an HTML element, using innerHTML.
+Writing into the HTML output using document.write().
+Writing into an alert box, using window.alert().
+Writing into the browser console, using console.log(). -->
+
+<!-- Using document.write() after an HTML document is loaded, will delete all existing HTML: -->
+
+<!-- JavaScript Print -->
+<!-- window.print() method in the browser to print the content of the current window. -->
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit aperiam aspernatur illum autem nostrum vel numquam et in, animi tempore quisquam dolorem culpa dolores similique sunt itaque expedita officia architecto!</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente beatae sint expedita nisi, doloribus excepturi maiores porro veniam magnam ullam nemo. Vel inventore velit veritatis laboriosam, natus qui expedita totam!</p>
+
+<button type="button" onclick=printPage()>Print This Page</button>
+    <script src="./script.js"></script>
+</body>
+</html>
+<!-- -->
