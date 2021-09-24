@@ -1,0 +1,8 @@
+1.[JavaScript Pass By Value](https://www.javascripttutorial.net/javascript-pass-by-value/)
+2.[Returning Multiple Values from a Function](https://www.javascripttutorial.net/javascript-return-multiple-values/)
+3.[JavaScript Function Type](https://www.javascripttutorial.net/javascript-function-type/)
+4.[JavaScript call() Method](https://www.javascripttutorial.net/javascript-call/)
+5.[https://www.javascripttutorial.net/javascript-call/](https://www.javascripttutorial.net/javascript-apply-method/)
+6.[JavaScript bind() Method](https://www.javascripttutorial.net/javascript-bind/)
+7.[JavaScript Recursive Function](https://www.javascripttutorial.net/javascript-recursive-function/)
+8.[JavaScript Closures](https://www.javascripttutorial.net/javascript-closure/)
