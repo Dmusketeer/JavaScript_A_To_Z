@@ -6,3 +6,7 @@
 ## 6.[JavaScript for Loop](https://www.javascripttutorial.net/javascript-for-loop/)
 ## 7.[javascript break](https://www.javascripttutorial.net/javascript-break/)
 ## 8.[JavaScript continue: Skipping the Current Iteration of a Loop](https://www.javascripttutorial.net/javascript-continue/)
+
+
+
+
