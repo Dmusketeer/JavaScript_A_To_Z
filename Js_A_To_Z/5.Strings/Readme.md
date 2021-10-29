@@ -1,5 +1,37 @@
 ## -------------------------------- JavaScript strings  --------------------------------
 
+## 1.[JavaScript String](https://www.javascripttutorial.net/javascript-string/) 
+## 2.[JavaScript String Type](https://www.javascripttutorial.net/javascript-string-type/) 
+## 3.[JavaScript String trimStart](https://www.javascripttutorial.net/es-next/javascript-string-trimstart/) 
+## 4.[Padding a String to a Certain Length with Another String](https://www.javascripttutorial.net/es-next/pad-string/) 
+## 5.[JavaScript String concat()](https://www.javascripttutorial.net/javascript-string-concat/) 
+## 6.[JavaScript String split()](https://www.javascripttutorial.net/javascript-string-split/) 
+## 7.[JavaScript String indexOf()](https://www.javascripttutorial.net/javascript-string-indexof/) 
+## 8.[JavaScript String lastIndexOf()](https://www.javascripttutorial.net/javascript-string-lastindexof/) 
+## 9.[JavaScript substring()](https://www.javascripttutorial.net/javascript-substring/) 
+## 10.[JavaScript String slice()](https://www.javascripttutorial.net/javascript-string-slice/) 
+## 11.[JavaScript String includes() Method](https://www.javascripttutorial.net/es6/javascript-string-includes/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - JavaScript strings are primitive values.
 -  JavaScript strings are also immutable. It means that if you process a string, you will always get a new string. The original string doesn’t change.
 
