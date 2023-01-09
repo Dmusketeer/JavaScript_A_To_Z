@@ -1,5 +1,5 @@
 # DOM Objects and Their Properties and Methods
-There are lots of method and properties of Dom objects but we'll discuss here only three of them - 
+There are lots of method and properties of Dom objects but we'll discuss here only three DOM object of them - 
 
 1. The Node object
 2. The Element object
@@ -40,3 +40,13 @@ match the given CSS selector
 </td>
     </tr>
 </table>
+
+
+
+# Selecting elements
+- getElementById() – select an element by id.
+- getElementsByName() – select elements by name.
+- getElementsByTagName()  – select elements by a tag name.
+- getElementsByClassName() – select elements by one or more class names.
+- querySelector()  – select elements by CSS selectors.
+
