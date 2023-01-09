@@ -17,13 +17,16 @@
 // }
 
 // getElementByName
-var out = document.getElementById("selectVal");
-var btn = document.getElementById("radioSubmit");
-btn.addEventListener("click", () => {
-  let rates = document.getElementsByName("rate");
-  rates.forEach((rate) => {
-    if (rate.checked) {
-      out.innerText = `${rate.value} is your friend now!!! `;
-    }
-  });
-});
+
+// var out = document.getElementById("selectVal");
+// var btn = document.getElementById("radioSubmit");
+// btn.addEventListener("click", () => {
+//   let rates = document.getElementsByName("rate");
+//   rates.forEach((rate) => {
+//     if (rate.checked) {
+//       out.innerText = `${rate.value} is your friend now!!! `;
+//     }
+//   });
+// });
+
+// getElementsByTagName;
