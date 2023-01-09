@@ -30,3 +30,9 @@
 // });
 
 // getElementsByTagName;
+var btn = document.getElementById("btn");
+var out = document.getElementById("res");
+btn.addEventListener("click", () => {
+  let count = document.getElementsByTagName("p");
+  out.innerText = `P Tage count : ${count.length}`;
+});
