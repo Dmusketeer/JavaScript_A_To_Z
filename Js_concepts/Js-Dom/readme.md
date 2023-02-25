@@ -50,3 +50,7 @@ match the given CSS selector
 - getElementsByClassName() – select elements by one or more class names.
 - querySelector()  – select elements by CSS selectors.
 
+# Traversing elements
+- Get the parent element – get the parent node of an element.
+- Get child elements – get children of an element.
+- Get siblings of an element – get siblings of an element.
