@@ -8,10 +8,7 @@ There are lots of method and properties of Dom objects but we'll discuss here on
 ## The Document Object and its Methods
 
 - The Document object’s methods are probably the most important methods. The Document object’s methods let you <b>Find, Create, and Delete elements</b> in your page. 
-
 - 1. find, create, and delete elements
-
-
 <table>
     <tr>
         <th>Document Object's Methods<th>
@@ -40,8 +37,6 @@ match the given CSS selector
 </td>
     </tr>
 </table>
-
-
 
 # Selecting elements
 - getElementById() – select an element by id.

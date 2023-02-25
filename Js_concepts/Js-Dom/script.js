@@ -30,9 +30,25 @@
 // });
 
 // getElementsByTagName;
-var btn = document.getElementById("btn");
-var out = document.getElementById("res");
-btn.addEventListener("click", () => {
-  let count = document.getElementsByTagName("p");
-  out.innerText = `P Tage count : ${count.length}`;
+// var btn = document.getElementById("btn");
+// var out = document.getElementById("res");
+// btn.addEventListener("click", () => {
+//   let count = document.getElementsByTagName("p");
+//   out.innerText = `P Tage count : ${count.length}`;
+// });
+
+function getRandomColor() {
+  return "#" + Math.random().toString(16).substring(2, 8);
+}
+const title = document.querySelectorAll(".list-items");
+title.forEach((title) => {
+  color = getRandomColor();
+  title.style.color = `${color}`;
 });
+
+const ul = document.querySelector("ul");
+const li = document.createElement("li");
+ul.append(li);
+li.setAttribute("class", "list-items");
+li.innerText = "Lucy";
+li.remove();
