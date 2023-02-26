@@ -52,3 +52,5 @@ ul.append(li);
 li.setAttribute("class", "list-items");
 li.innerText = "Lucy";
 li.remove();
+
+// Event listeners i
