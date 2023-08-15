@@ -1,4 +1,4 @@
-# DOM Objects and Their Properties and Methods
+<!-- # DOM Objects and Their Properties and Methods
 There are lots of method and properties of Dom objects but we'll discuss here only three DOM object of them - 
 
 1. The Node object
@@ -48,4 +48,6 @@ match the given CSS selector
 # Traversing elements
 - Get the parent element – get the parent node of an element.
 - Get child elements – get children of an element.
-- Get siblings of an element – get siblings of an element.
+- Get siblings of an element – get siblings of an element. -->
+
+

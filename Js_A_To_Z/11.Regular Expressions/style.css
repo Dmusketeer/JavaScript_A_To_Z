@@ -1,0 +1,45 @@
+
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+
+
+label {
+  display: block; /* Make sure the labels take up the full width of the form */
+  margin-bottom: 10px; /* Add some space between the labels and the form elements */
+  text-align: left; /* Align the label text to the left */
+  font-weight: bold; /* Make the label text bold */
+  padding: 10px; /* Add some space around the label text */
+  /* border-top: 1px solid #ccc; Add a light gray border to the top of the label */
+  /* border-bottom: 1px solid #ccc; Add a light gray border to the bottom of the label */
+}
+
+input[type="text"],input[type="password"], input[type="email"], input[type="tel"] {
+  width: 80%; /* Make sure the input fields take up the full width of the form */
+  padding: 10px; /* Add some space around the input fields */
+  font-size: 16px; /* Increase the font size of the input fields */
+  border: none; /* Remove the default browser border */
+  border-radius: 5px; /* Add rounded corners to the input fields */
+  margin-left: 10%;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.2); /* Add a subtle shadow to the input fields */
+  background-color: #fff; /* Add a white background to the input fields */
+}
+
+input[type="submit"] {
+  background-color: #4CAF50; /* Set the background color of the submit button */
+  color: white; /* Set the text color of the submit button */
+  padding: 10px 20px; /* Add some space around the submit button */
+  border: none; /* Remove the default browser border */
+  border-radius: 5px; /* Add rounded corners to the submit button */
+  cursor: pointer; /* Change the cursor to a pointing hand */
+  font-size: 18px; /* Increase the font size of the submit button */
+}
+
+input[type="submit"]:hover {
+  background-color: #42a5f5; /* Set the background color of the submit button on hover */
+}
